@@ -5,4 +5,4 @@ Patika otomasyon ödevi
 Doğru kullanıcı adı ve şifre ile giriş
 Yanlış kullanıcı adı ve şifre ile giriş
 
-![github](pictures/LoginReport.png)
+![github](pictures/LoginReport.PNG)
