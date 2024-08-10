@@ -1,8 +1,9 @@
 # PatikaDevTest-dev
 Patika otomasyon ödevi
 
-## Valid-Invalid Login Senaryoları:
-Doğru kullanıcı adı ve şifre ile giriş
-Yanlış kullanıcı adı ve şifre ile giriş
+##  Login Scenario
+Correct and incorrect username and password scenario
+
 
 ![github](pictures/LoginReport.PNG)
+![github](pictures/Login.PNG)
