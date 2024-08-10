@@ -18,6 +18,7 @@ Correct and incorrect username and password scenario
 ![github](pictures/search6.PNG)
 ![github](pictures/search7.PNG)
 
+
 ## Search Scenarios Reports
 ![github](pictures/search1Report.PNG)
 ![github](pictures/search2Report.PNG)
