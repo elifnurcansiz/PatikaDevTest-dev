@@ -5,8 +5,8 @@ Patika otomasyon ödevi
 Correct and incorrect username and password scenario
 
 
-![github](pictures/LoginReport.PNG)
-![github](pictures/Login.PNG)
+![github](pictures/loginReport.PNG)
+![github](pictures/login.PNG)
 
 
 ##  Search Scenarios
